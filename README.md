@@ -65,3 +65,9 @@ study_fb_data/
 ├── requirements.txt
 ├── livescore.db
 ├── main.py
+
+# 7. Wykresy dla zespołu Como 1907
+
+Aby włączyć wykresy dla tego zespołu należy w głownym folderze aplikacji wpisac komende python .\charts.py
+
+Jeśli chcielibyśmy mieć wykresy dla innej drużyny należy zmienić w kodzie nazwę na konkretną nazwę drużyny.
